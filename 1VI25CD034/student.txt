@@ -1,0 +1,4 @@
+Name: Manoj A
+USN: 1VI25CD034
+Branch: CSE (Data Science)
+Semester: III
