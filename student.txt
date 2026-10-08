@@ -1,0 +1,4 @@
+Name: Manoj A
+USN: 1VI25CD034
+e-mail: manoja3221@gmail.com
+Branch: CSE(Data Science)
